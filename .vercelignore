@@ -1,0 +1,16 @@
+# Documentation files
+*.md
+!README.md
+
+# Development files
+scripts/
+verify-fix.sh
+verify-fix.bat
+FINAL_SUMMARY.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Local env
+.env.local
