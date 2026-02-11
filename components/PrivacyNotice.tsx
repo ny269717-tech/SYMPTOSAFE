@@ -32,7 +32,7 @@ export default function PrivacyNotice() {
           <div>
             <h3 className="font-semibold text-gray-800 mb-2">No Data Storage</h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              We don't collect, store, or share any personal health information. No login required, no tracking, no databases.
+              We don&apos;t collect, store, or share any personal health information. No login required, no tracking, no databases.
             </p>
           </div>
         </div>
