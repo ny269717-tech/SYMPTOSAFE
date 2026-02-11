@@ -44,7 +44,7 @@ export default function PrivacyNotice() {
           <div>
             <h3 className="font-semibold text-gray-800 mb-2">Explainable AI</h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              Our AI explains its reasoning in simple language. You'll understand why certain conditions are suggested and what symptoms contributed.
+              Our AI explains its reasoning in simple language. You&apos;ll understand why certain conditions are suggested and what symptoms contributed.
             </p>
           </div>
         </div>
